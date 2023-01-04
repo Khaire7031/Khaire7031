@@ -2,7 +2,7 @@
 [![MasterHead](https://www.mycplus.com/mycplus/wp-content/uploads/2020/02/programming_tips.jpg)
 <h1 align="center">Hi 👋, I'm Pranav Khaire</h1>
 <h3 align="center">A passionate frontend / Backend developer from India , Once I Concentrate ,Countdown Begins.</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaire7031&label=Profile%20views&color=0e75b6&style=flat" alt="khaire7031" /> </p>
 

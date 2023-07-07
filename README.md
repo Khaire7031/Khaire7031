@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Android Development, Web Development**
+- 💬 Ask me about **Android Development, Web Development** 
 
 - 📫 How to reach me **pranavkhaire28@gmail.com**
 
